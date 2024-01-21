@@ -57,3 +57,7 @@
 
 - Client side Routing
 - Server side Routing
+
+# For API Call in Class Based Component
+
+- componentDidMount
